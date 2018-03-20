@@ -1,6 +1,6 @@
-baseurl = "https://gohugo-amp.gohugohq.com/"
+baseurl = "https://friendly-stallman-4fc2c5.netlify.com/"
 languageCode = "en-us"
-title = "gohugo-amp starter theme"
+title = "ebotgamer1"
 theme = "gohugo-amp"
 enableRobotsTXT = true
 

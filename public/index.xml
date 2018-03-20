@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gohugo-amp starter theme</title>
+    <link>https://gohugo-amp.gohugohq.com/</link>
+    <description>Recent content on gohugo-amp starter theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 26 Nov 2016 19:28:41 +0200</lastBuildDate>
+    
+	<atom:link href="https://gohugo-amp.gohugohq.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Disable amp on specific article.</title>
+      <link>https://gohugo-amp.gohugohq.com/articles/no-amp-example/</link>
+      <pubDate>Sat, 26 Nov 2016 19:28:41 +0200</pubDate>
+      
+      <guid>https://gohugo-amp.gohugohq.com/articles/no-amp-example/</guid>
+      <description>This is an article where amp is disabled Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</description>
+    </item>
+    
+    <item>
+      <title>gohugo-amp</title>
+      <link>https://gohugo-amp.gohugohq.com/</link>
+      <pubDate>Sun, 20 Nov 2016 14:28:41 +0200</pubDate>
+      
+      <guid>https://gohugo-amp.gohugohq.com/</guid>
+      <description>gohugo-amp This Hugo theme is supposed to be a starter theme to make it easy to adapt to Google&amp;rsquo;s AMP-Project. Included in the theme are 40+ shortcodes and partials and automatic Structured Data making it a pleasure to embed AMP-Elements within your content files or your template.
+Have a look at the documentation including the following starter-Guides:
+1. Installation Guide 2. Configuration Guide 3. Styling Guide 4. Structured Data Guide 5.</description>
+    </item>
+    
+    <item>
+      <title>article example one</title>
+      <link>https://gohugo-amp.gohugohq.com/articles/article-one/</link>
+      <pubDate>Fri, 18 Nov 2016 19:28:41 +0200</pubDate>
+      
+      <guid>https://gohugo-amp.gohugohq.com/articles/article-one/</guid>
+      <description>This is an article example Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</description>
+    </item>
+    
+    <item>
+      <title>course example one</title>
+      <link>https://gohugo-amp.gohugohq.com/courses/course-one/</link>
+      <pubDate>Fri, 18 Nov 2016 19:28:41 +0200</pubDate>
+      
+      <guid>https://gohugo-amp.gohugohq.com/courses/course-one/</guid>
+      <description>This is a course example Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</description>
+    </item>
+    
+    <item>
+      <title>course example one</title>
+      <link>https://gohugo-amp.gohugohq.com/recipes/recipe-one/</link>
+      <pubDate>Fri, 18 Nov 2016 19:28:41 +0200</pubDate>
+      
+      <guid>https://gohugo-amp.gohugohq.com/recipes/recipe-one/</guid>
+      <description>This is a recipe example Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</description>
+    </item>
+    
+  </channel>
+</rss>

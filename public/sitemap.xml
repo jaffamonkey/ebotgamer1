@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+    <url>
+        <loc>https://gohugo-amp.gohugohq.com/articles/no-amp-example/</loc>
+        <lastmod>2016-11-26T19:28:41+02:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://gohugo-amp.gohugohq.com/</loc>
+        <lastmod>2016-11-20T14:28:41+02:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1</priority>
+    </url>
+    
+    <url>
+        <loc>https://gohugo-amp.gohugohq.com/articles/article-one/</loc>
+        <lastmod>2016-11-18T19:28:41+02:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://gohugo-amp.gohugohq.com/courses/course-one/</loc>
+        <lastmod>2016-11-18T19:28:41+02:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://gohugo-amp.gohugohq.com/recipes/recipe-one/</loc>
+        <lastmod>2016-11-18T19:28:41+02:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://gohugo-amp.gohugohq.com/articles/</loc>
+        <lastmod>2016-11-26T19:28:41+02:00</lastmod>
+        <priority>0</priority>
+    </url>
+    
+    <url>
+        <loc>https://gohugo-amp.gohugohq.com/categories/</loc>
+        <lastmod>0001-01-01T00:00:00+00:00</lastmod>
+        <priority>0</priority>
+    </url>
+    
+    <url>
+        <loc>https://gohugo-amp.gohugohq.com/courses/</loc>
+        <lastmod>2016-11-18T19:28:41+02:00</lastmod>
+        <priority>0</priority>
+    </url>
+    
+    <url>
+        <loc>https://gohugo-amp.gohugohq.com/recipes/</loc>
+        <lastmod>2016-11-18T19:28:41+02:00</lastmod>
+        <priority>0</priority>
+    </url>
+    
+    <url>
+        <loc>https://gohugo-amp.gohugohq.com/tags/</loc>
+        <lastmod>0001-01-01T00:00:00+00:00</lastmod>
+        <priority>0</priority>
+    </url>
+    
+    <url>
+        <loc>https://gohugo-amp.gohugohq.com/</loc>
+        <lastmod>2016-11-26T19:28:41+02:00</lastmod>
+        <priority>0</priority>
+    </url>
+    
+</urlset>
